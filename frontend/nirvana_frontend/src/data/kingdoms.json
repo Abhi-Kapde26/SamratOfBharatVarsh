@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Kakatiya Kingdom",
+    "hint": "A major Telugu-speaking power known for Warangal Fort, irrigation works, and the reign of Rudrama Devi.",
+    "region": "Deccan; mainly present-day Telangana and parts of Andhra Pradesh",
+    "area": null,
+    "ruler": "Rudrama Devi; Prataparudra II",
+    "modern_city": "Warangal / Orugallu, Telangana",
+    "criteria": {
+      "army": 75,
+      "wealth": 65,
+      "territory": 65,
+      "culture": 85,
+      "politics": 75,
+      "population": 70
+    }
+  },
+  {
+    "name": "Eastern Chalukya Kingdom",
+    "hint": "A long-lasting Vengi-based kingdom connected through conflict and marriage alliances with the Cholas.",
+    "region": "Eastern Deccan; coastal Andhra Pradesh",
+    "area": null,
+    "ruler": "Kubja Vishnuvardhana; Rajaraja Narendra",
+    "modern_city": "Vengi region; later Rajamahendravaram area, Andhra Pradesh",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 50,
+      "culture": 75,
+      "politics": 60,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kingdom of Mysore",
+    "hint": "A South Indian kingdom associated with the Wadiyars and, in the 18th century, Hyder Ali and Tipu Sultan.",
+    "region": "Southern Deccan; present-day Karnataka and neighbouring areas at different times",
+    "area": null,
+    "ruler": "Wadiyar rulers; Hyder Ali and Tipu Sultan during the late 18th century",
+    "modern_city": "Mysore; Srirangapatna was an important capital under Hyder Ali and Tipu Sultan",
+    "criteria": {
+      "army": 75,
+      "wealth": 75,
+      "territory": 65,
+      "culture": 80,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Maratha Kingdom under Shivaji Maharaj",
+    "hint": "A kingdom founded by Chhatrapati Shivaji Maharaj, known for forts, regional administration, and mobile warfare.",
+    "region": "Western Deccan; centred on present-day Maharashtra",
+    "area": null,
+    "ruler": "Chhatrapati Shivaji Maharaj; Sambhaji; Rajaram",
+    "modern_city": "Raigad and other forts in Maharashtra",
+    "criteria": {
+      "army": 85,
+      "wealth": 65,
+      "territory": 65,
+      "culture": 80,
+      "politics": 80,
+      "population": 70
+    }
+  },
+  {
+    "name": "Hoysala Kingdom",
+    "hint": "Known for intricately carved temples at Belur and Halebidu and a powerful medieval presence in southern India.",
+    "region": "Southern Deccan; mainly present-day Karnataka",
+    "area": null,
+    "ruler": "Vishnuvardhana; Ballala II; Ballala III",
+    "modern_city": "Dwarasamudra / Halebidu; Belur, Karnataka",
+    "criteria": {
+      "army": 75,
+      "wealth": 70,
+      "territory": 60,
+      "culture": 95,
+      "politics": 70,
+      "population": 65
+    }
+  },
+  {
+    "name": "Ahom Kingdom",
+    "hint": "A long-lasting northeastern kingdom remembered for resisting Mughal expansion, including the Battle of Saraighat.",
+    "region": "Brahmaputra Valley; present-day Assam",
+    "area": null,
+    "ruler": "Sukaphaa; Suhungmung; Pratap Singha; associated commander Lachit Borphukan",
+    "modern_city": "Charaideo, Garhgaon and Rangpur at different periods; Assam",
+    "criteria": {
+      "army": 85,
+      "wealth": 60,
+      "territory": 65,
+      "culture": 85,
+      "politics": 80,
+      "population": 65
+    }
+  },
+  {
+    "name": "Mewar Kingdom",
+    "hint": "A Rajput kingdom associated with Chittorgarh, Rana Sanga, and Maharana Pratap.",
+    "region": "Southern Rajasthan",
+    "area": null,
+    "ruler": "Rana Sanga; Maharana Pratap; later rulers of Udaipur",
+    "modern_city": "Chittorgarh and Udaipur, Rajasthan",
+    "criteria": {
+      "army": 85,
+      "wealth": 55,
+      "territory": 55,
+      "culture": 85,
+      "politics": 80,
+      "population": 60
+    }
+  },
+  {
+    "name": "Chera Kingdom",
+    "hint": "A major Tamil-Malayalam-region polity associated with western-coast trade and the spice routes.",
+    "region": "Parts of present-day Kerala and western Tamil Nadu",
+    "area": null,
+    "ruler": "Senguttuvan is celebrated in Tamil tradition; Chera rulers are known from inscriptions and literature",
+    "modern_city": "Vanchi is named in literary sources; its exact identification is debated",
+    "criteria": {
+      "army": 60,
+      "wealth": 85,
+      "territory": 65,
+      "culture": 90,
+      "politics": 60,
+      "population": 65
+    }
+  },
+  {
+    "name": "Pandya Kingdom",
+    "hint": "A Tamil kingdom centred on Madurai, known for temple patronage, trade, and pearl fisheries.",
+    "region": "Southern Tamil Nadu",
+    "area": null,
+    "ruler": "Nedunjeliyan in early Tamil tradition; Jatavarman Sundara Pandyan in the medieval period",
+    "modern_city": "Madurai, Tamil Nadu",
+    "criteria": {
+      "army": 75,
+      "wealth": 85,
+      "territory": 65,
+      "culture": 90,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Vijayanagara Empire",
+    "hint": "A major South Indian imperial state associated with Hampi and Krishnadevaraya.",
+    "region": "Southern India and the Deccan",
+    "area": null,
+    "ruler": "Harihara I; Bukka I; Krishnadevaraya",
+    "modern_city": "Vijayanagara / Hampi, Karnataka",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 90,
+      "culture": 95,
+      "politics": 85,
+      "population": 90
+    }
+  },
+  {
+    "name": "Kingdom of Travancore",
+    "hint": "A southern Kerala kingdom known for state-building, temple traditions, and a long royal history.",
+    "region": "Southern Kerala and nearby areas",
+    "area": null,
+    "ruler": "Marthanda Varma; Swathi Thirunal; Chithira Thirunal",
+    "modern_city": "Padmanabhapuram and later Thiruvananthapuram, Kerala",
+    "criteria": {
+      "army": 60,
+      "wealth": 75,
+      "territory": 45,
+      "culture": 90,
+      "politics": 85,
+      "population": 70
+    }
+  },
+  {
+    "name": "Yadava Kingdom of Dwarka (traditional)",
+    "hint": "In Hindu epic tradition, Krishna and the Yadavas are associated with Dwarka after leaving Mathura.",
+    "region": "Traditional setting on the Gujarat coast",
+    "area": null,
+    "ruler": "Krishna and the Yadavas in the Mahabharata/Puranic tradition",
+    "modern_city": "Dwarka, Gujarat (traditional identification)",
+    "criteria": {
+      "army": 70,
+      "wealth": 65,
+      "territory": 55,
+      "culture": 90,
+      "politics": 70,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kingdom / State of Jhansi",
+    "hint": "Widely remembered through Rani Lakshmibai and the Indian Rebellion of 1857.",
+    "region": "Bundelkhand; present-day Uttar Pradesh",
+    "area": null,
+    "ruler": "Gangadhar Rao; Rani Lakshmibai",
+    "modern_city": "Jhansi, Uttar Pradesh",
+    "criteria": {
+      "army": 65,
+      "wealth": 45,
+      "territory": 30,
+      "culture": 75,
+      "politics": 70,
+      "population": 40
+    }
+  },
+  {
+    "name": "Kamarupa Kingdom",
+    "hint": "An important early kingdom in Assam, known through inscriptions and rulers such as Bhaskaravarman.",
+    "region": "Northeastern India; centred in the Brahmaputra Valley",
+    "area": null,
+    "ruler": "Bhaskaravarman; rulers of the Varman and later dynasties",
+    "modern_city": "Pragjyotishpura, often associated with the Guwahati region; Assam",
+    "criteria": {
+      "army": 65,
+      "wealth": 55,
+      "territory": 60,
+      "culture": 80,
+      "politics": 70,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kuninda Kingdom",
+    "hint": "A Himalayan-region polity known largely from coins and archaeological evidence.",
+    "region": "Himalayan foothills; parts of present-day Uttarakhand and Himachal Pradesh",
+    "area": null,
+    "ruler": "Specific rulers are not securely established; coins are key evidence",
+    "modern_city": "Himalayan foothills in northwestern India",
+    "criteria": {
+      "army": 35,
+      "wealth": 40,
+      "territory": 30,
+      "culture": 45,
+      "politics": 35,
+      "population": 30
+    }
+  },
+  {
+    "name": "Kingdom of Cochin",
+    "hint": "A Kerala kingdom involved in Indian Ocean commerce and later Portuguese, Dutch, and British-era politics.",
+    "region": "Central Kerala",
+    "area": null,
+    "ruler": "Sakthan Thampuran is a notable later ruler",
+    "modern_city": "Kochi / Thrippunithura region, Kerala",
+    "criteria": {
+      "army": 45,
+      "wealth": 75,
+      "territory": 30,
+      "culture": 85,
+      "politics": 75,
+      "population": 55
+    }
+  },
+  {
+    "name": "Patiala State",
+    "hint": "A prominent Sikh princely state in the Punjab region.",
+    "region": "Eastern Punjab; present-day Punjab, India",
+    "area": null,
+    "ruler": "Ala Singh; Maharaja Bhupinder Singh",
+    "modern_city": "Patiala, Punjab",
+    "criteria": {
+      "army": 60,
+      "wealth": 65,
+      "territory": 35,
+      "culture": 70,
+      "politics": 75,
+      "population": 50
+    }
+  },
+  {
+    "name": "Kashmir Kingdom (medieval)",
+    "hint": "A Himalayan kingdom known for Sanskrit scholarship, art, and rulers such as Lalitaditya in the Karkota period.",
+    "region": "Kashmir Valley and adjoining Himalayan areas at different times",
+    "area": null,
+    "ruler": "Lalitaditya Muktapida (Karkota period); other dynasties ruled in later centuries",
+    "modern_city": "Kashmir Valley; Srinagar and other centres",
+    "criteria": {
+      "army": 70,
+      "wealth": 60,
+      "territory": 50,
+      "culture": 90,
+      "politics": 70,
+      "population": 55
+    }
+  },
+  {
+    "name": "Marwar Kingdom",
+    "hint": "A Rajput kingdom centred on Jodhpur, with major forts and desert trade routes.",
+    "region": "Western Rajasthan",
+    "area": null,
+    "ruler": "Rao Jodha; Jaswant Singh; Ajit Singh",
+    "modern_city": "Jodhpur, Rajasthan",
+    "criteria": {
+      "army": 75,
+      "wealth": 65,
+      "territory": 65,
+      "culture": 80,
+      "politics": 75,
+      "population": 60
+    }
+  },
+  {
+    "name": "Bharatpur State",
+    "hint": "A Jat-ruled state known for its fortifications and the rule of Maharaja Suraj Mal.",
+    "region": "Eastern Rajasthan and nearby north Indian areas",
+    "area": null,
+    "ruler": "Maharaja Suraj Mal; Jawahar Singh",
+    "modern_city": "Bharatpur, Rajasthan",
+    "criteria": {
+      "army": 70,
+      "wealth": 65,
+      "territory": 40,
+      "culture": 65,
+      "politics": 70,
+      "population": 55
+    }
+  },
+  {
+    "name": "Chola Kingdom",
+    "hint": "A Tamil power associated with Rajaraja I, Rajendra I, monumental temples, and overseas connections.",
+    "region": "Tamil Nadu and, at its height, parts of Sri Lanka and Southeast Asia-facing maritime networks",
+    "area": null,
+    "ruler": "Rajaraja Chola I; Rajendra Chola I",
+    "modern_city": "Thanjavur and Gangaikonda Cholapuram, Tamil Nadu",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 90,
+      "culture": 95,
+      "politics": 85,
+      "population": 85
+    }
+  },
+  {
+    "name": "Jaffna Kingdom",
+    "hint": "A Tamil kingdom in northern Sri Lanka with maritime links and a capital at Nallur.",
+    "region": "Northern Sri Lanka",
+    "area": null,
+    "ruler": "Aryacakravarti rulers",
+    "modern_city": "Nallur / Jaffna, Sri Lanka",
+    "criteria": {
+      "army": 55,
+      "wealth": 65,
+      "territory": 35,
+      "culture": 85,
+      "politics": 65,
+      "population": 50
+    }
+  },
+  {
+    "name": "Gajapati Kingdom of Odisha",
+    "hint": "A powerful Odishan state associated with Kapilendra Deva and the Jagannath tradition.",
+    "region": "Odisha and neighbouring parts of eastern/southern India at its height",
+    "area": null,
+    "ruler": "Kapilendra Deva; Purushottama Deva; Prataparudra Deva",
+    "modern_city": "Cuttack and Puri, Odisha",
+    "criteria": {
+      "army": 80,
+      "wealth": 75,
+      "territory": 80,
+      "culture": 95,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Madurai Nayak Kingdom",
+    "hint": "A Tamil kingdom known for temple-building, palace architecture, and the rule of Tirumala Nayak.",
+    "region": "Southern Tamil Nadu",
+    "area": null,
+    "ruler": "Viswanatha Nayak; Tirumala Nayak; Rani Mangammal",
+    "modern_city": "Madurai, Tamil Nadu",
+    "criteria": {
+      "army": 65,
+      "wealth": 70,
+      "territory": 45,
+      "culture": 95,
+      "politics": 70,
+      "population": 60
+    }
+  },
+  {
+    "name": "Amber Kingdom",
+    "hint": "A Kachwaha Rajput kingdom associated with Amber Fort and rulers who participated in Mughal-era politics.",
+    "region": "Eastern Rajasthan",
+    "area": null,
+    "ruler": "Raja Man Singh I; Mirza Raja Jai Singh I",
+    "modern_city": "Amber, near Jaipur, Rajasthan",
+    "criteria": {
+      "army": 70,
+      "wealth": 65,
+      "territory": 45,
+      "culture": 85,
+      "politics": 80,
+      "population": 55
+    }
+  },
+  {
+    "name": "Jaisalmer Kingdom",
+    "hint": "A desert kingdom whose fortified capital sat on important caravan routes.",
+    "region": "Western Rajasthan / Thar Desert",
+    "area": null,
+    "ruler": "Rawal Jaisal; later Bhati rulers",
+    "modern_city": "Jaisalmer, Rajasthan",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 65,
+      "culture": 80,
+      "politics": 60,
+      "population": 45
+    }
+  },
+  {
+    "name": "Kangra Kingdom",
+    "hint": "A Himalayan kingdom associated with the Katoch dynasty and the historic Kangra Fort.",
+    "region": "Himachal Pradesh and surrounding Himalayan foothills",
+    "area": null,
+    "ruler": "Katoch rulers; Maharaja Sansar Chand is a notable later ruler",
+    "modern_city": "Kangra Fort / Kangra Valley, Himachal Pradesh",
+    "criteria": {
+      "army": 60,
+      "wealth": 50,
+      "territory": 40,
+      "culture": 80,
+      "politics": 55,
+      "population": 40
+    }
+  },
+  {
+    "name": "Chitradurga Nayaka Kingdom",
+    "hint": "A fortified inland state remembered for Chitradurga Fort and its Nayaka rulers.",
+    "region": "Central Karnataka",
+    "area": null,
+    "ruler": "Madakari Nayaka is a prominent later ruler",
+    "modern_city": "Chitradurga, Karnataka",
+    "criteria": {
+      "army": 65,
+      "wealth": 45,
+      "territory": 35,
+      "culture": 65,
+      "politics": 55,
+      "population": 40
+    }
+  },
+  {
+    "name": "Haryanka Dynasty of Magadha",
+    "hint": "The early Magadhan dynasty of Bimbisara and Ajatashatru that began Magadha's rise as the leading power of the Gangetic plain.",
+    "region": "Middle Gangetic plain; present-day Bihar and neighbouring areas",
+    "area": null,
+    "ruler": "Bimbisara; Ajatashatru; Udayin",
+    "modern_city": "Rajagriha, later Pataliputra, Bihar",
+    "criteria": {
+      "army": 70,
+      "wealth": 60,
+      "territory": 55,
+      "culture": 65,
+      "politics": 70,
+      "population": 60
+    }
+  },
+  {
+    "name": "Nanda Dynasty",
+    "hint": "A Magadhan dynasty remembered for its vast army and treasury, overthrown by Chandragupta Maurya with Chanakya's help.",
+    "region": "Gangetic plain and parts of central and eastern India",
+    "area": null,
+    "ruler": "Mahapadma Nanda; Dhana Nanda",
+    "modern_city": "Pataliputra, Bihar",
+    "criteria": {
+      "army": 85,
+      "wealth": 85,
+      "territory": 70,
+      "culture": 55,
+      "politics": 55,
+      "population": 75
+    }
+  },
+  {
+    "name": "Maurya Empire",
+    "hint": "India's first great pan-subcontinental empire, associated with Chandragupta, Chanakya's statecraft and the edicts of Ashoka.",
+    "region": "Most of the Indian subcontinent and parts of present-day Afghanistan",
+    "area": 5000000,
+    "ruler": "Chandragupta Maurya; Bindusara; Ashoka",
+    "modern_city": "Pataliputra (Patna), Bihar",
+    "criteria": {
+      "army": 95,
+      "wealth": 90,
+      "territory": 95,
+      "culture": 90,
+      "politics": 95,
+      "population": 95
+    }
+  },
+  {
+    "name": "Shunga Dynasty",
+    "hint": "The Magadhan successors of the Mauryas, associated with Pushyamitra Shunga and the growth of Sanchi and Bharhut art.",
+    "region": "Central and northern India",
+    "area": null,
+    "ruler": "Pushyamitra Shunga; Agnimitra",
+    "modern_city": "Pataliputra and Vidisha, Madhya Pradesh",
+    "criteria": {
+      "army": 65,
+      "wealth": 60,
+      "territory": 55,
+      "culture": 75,
+      "politics": 55,
+      "population": 70
+    }
+  },
+  {
+    "name": "Kingdom of Kalinga (Kharavela's Era)",
+    "hint": "An eastern coastal power known for the Kalinga War against Ashoka and for Kharavela's Hathigumpha inscription.",
+    "region": "Odisha and neighbouring coastal regions",
+    "area": null,
+    "ruler": "Kharavela (Mahameghavahana line)",
+    "modern_city": "Sisupalgarh and Udayagiri–Khandagiri, near Bhubaneswar, Odisha",
+    "criteria": {
+      "army": 75,
+      "wealth": 70,
+      "territory": 60,
+      "culture": 75,
+      "politics": 65,
+      "population": 65
+    }
+  },
+  {
+    "name": "Satavahana Dynasty",
+    "hint": "A Deccan dynasty that controlled Roman-era trade routes and patronised Buddhist art at Amaravati and the Western Ghats caves.",
+    "region": "Deccan; present-day Maharashtra, Telangana and Andhra Pradesh",
+    "area": null,
+    "ruler": "Simuka; Gautamiputra Satakarni; Vasishthiputra Pulumavi",
+    "modern_city": "Pratishthana (Paithan), Maharashtra; Amaravati / Dharanikota, Andhra Pradesh",
+    "criteria": {
+      "army": 75,
+      "wealth": 85,
+      "territory": 75,
+      "culture": 85,
+      "politics": 70,
+      "population": 80
+    }
+  },
+  {
+    "name": "Kushan Empire",
+    "hint": "A Central Asian-origin empire on the Silk Road, famous for Kanishka, Gandhara and Mathura art, and the spread of Buddhism.",
+    "region": "Northwestern South Asia, Afghanistan and Central Asia",
+    "area": null,
+    "ruler": "Kujula Kadphises; Vima Kadphises; Kanishka I",
+    "modern_city": "Purushapura (Peshawar), Pakistan; Mathura, Uttar Pradesh",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 85,
+      "culture": 90,
+      "politics": 80,
+      "population": 80
+    }
+  },
+  {
+    "name": "Western Satraps (Western Kshatrapas)",
+    "hint": "A Saka dynasty that ruled Gujarat and Malwa, known for Rudradaman I's Junagadh inscription and its Indian Ocean trade.",
+    "region": "Western India; present-day Gujarat, Malwa and Saurashtra",
+    "area": null,
+    "ruler": "Nahapana; Rudradaman I",
+    "modern_city": "Ujjain, Madhya Pradesh; Junagadh, Gujarat",
+    "criteria": {
+      "army": 70,
+      "wealth": 80,
+      "territory": 60,
+      "culture": 65,
+      "politics": 60,
+      "population": 65
+    }
+  },
+  {
+    "name": "Vakataka Dynasty",
+    "hint": "A central Indian dynasty allied by marriage to the Guptas and remembered as patrons of the Ajanta cave paintings.",
+    "region": "Deccan and central India; present-day Maharashtra and Madhya Pradesh",
+    "area": null,
+    "ruler": "Pravarasena I; Rudrasena II; Harishena",
+    "modern_city": "Nandivardhana (near Nagpur) and Vatsagulma (Washim), Maharashtra",
+    "criteria": {
+      "army": 65,
+      "wealth": 65,
+      "territory": 60,
+      "culture": 90,
+      "politics": 65,
+      "population": 65
+    }
+  },
+  {
+    "name": "Pallava Dynasty",
+    "hint": "A Tamil-region dynasty known for rock-cut and structural temples at Mamallapuram and for its rivalry with the Chalukyas.",
+    "region": "Northern Tamil Nadu and southern Andhra Pradesh",
+    "area": null,
+    "ruler": "Mahendravarman I; Narasimhavarman I; Nandivarman II",
+    "modern_city": "Kanchipuram and Mamallapuram, Tamil Nadu",
+    "criteria": {
+      "army": 80,
+      "wealth": 75,
+      "territory": 65,
+      "culture": 95,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Gupta Empire",
+    "hint": "Often called India's classical age, associated with Samudragupta, Chandragupta II and advances in science, literature and art.",
+    "region": "Northern and central India",
+    "area": 3500000,
+    "ruler": "Chandragupta I; Samudragupta; Chandragupta II; Skandagupta",
+    "modern_city": "Pataliputra, Bihar; Prayagraj and Ayodhya, Uttar Pradesh",
+    "criteria": {
+      "army": 85,
+      "wealth": 90,
+      "territory": 85,
+      "culture": 95,
+      "politics": 85,
+      "population": 85
+    }
+  },
+  {
+    "name": "Kadamba Dynasty of Banavasi",
+    "hint": "The first major Kannada-region dynasty to use the Kannada language in administration, founded by Mayurasharma.",
+    "region": "Northwestern Karnataka and the Konkan coast",
+    "area": null,
+    "ruler": "Mayurasharma; Kakusthavarma",
+    "modern_city": "Banavasi, Karnataka",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 55,
+      "culture": 75,
+      "politics": 65,
+      "population": 60
+    }
+  },
+  {
+    "name": "Western Ganga Dynasty",
+    "hint": "A long-lived Karnataka dynasty associated with Talakadu and the Jain colossus at Shravanabelagola.",
+    "region": "Southern Karnataka",
+    "area": null,
+    "ruler": "Kongunivarma Madhava; Durvinita; Rachamalla IV; minister Chavundaraya",
+    "modern_city": "Talakadu and Shravanabelagola, Karnataka",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 55,
+      "culture": 80,
+      "politics": 65,
+      "population": 60
+    }
+  },
+  {
+    "name": "Chalukyas of Badami",
+    "hint": "A Deccan imperial power under Pulakeshin II, who checked Harsha, and a builder of the temples at Aihole and Pattadakal.",
+    "region": "Deccan; present-day Karnataka and Maharashtra, at times beyond",
+    "area": null,
+    "ruler": "Pulakeshin I; Pulakeshin II; Vikramaditya II",
+    "modern_city": "Badami (Vatapi), Aihole and Pattadakal, Karnataka",
+    "criteria": {
+      "army": 90,
+      "wealth": 75,
+      "territory": 80,
+      "culture": 90,
+      "politics": 80,
+      "population": 80
+    }
+  },
+  {
+    "name": "Pushyabhuti (Vardhana) Dynasty",
+    "hint": "The north Indian dynasty of Harsha, whose court was described by the Chinese pilgrim Xuanzang.",
+    "region": "Northern India; Thanesar and the Kannauj region",
+    "area": null,
+    "ruler": "Prabhakaravardhana; Harshavardhana",
+    "modern_city": "Thanesar, Haryana; Kannauj, Uttar Pradesh",
+    "criteria": {
+      "army": 80,
+      "wealth": 70,
+      "territory": 75,
+      "culture": 85,
+      "politics": 70,
+      "population": 80
+    }
+  },
+  {
+    "name": "Gurjara-Pratihara Dynasty",
+    "hint": "A north Indian power that held Kannauj, resisted Arab expansion from Sindh, and fought in the tripartite struggle.",
+    "region": "Northern and western India; Rajasthan, Malwa and the Gangetic plain",
+    "area": null,
+    "ruler": "Nagabhata I; Mihira Bhoja; Mahendrapala I",
+    "modern_city": "Kannauj, Uttar Pradesh",
+    "criteria": {
+      "army": 90,
+      "wealth": 80,
+      "territory": 85,
+      "culture": 80,
+      "politics": 75,
+      "population": 85
+    }
+  },
+  {
+    "name": "Pala Empire",
+    "hint": "A Buddhist-patron dynasty of Bengal and Bihar that sustained Nalanda, Vikramashila and Odantapuri.",
+    "region": "Eastern India; present-day Bengal, Bihar and Bangladesh",
+    "area": null,
+    "ruler": "Gopala; Dharmapala; Devapala; Ramapala",
+    "modern_city": "Gauda and Monghyr; Pataliputra region",
+    "criteria": {
+      "army": 85,
+      "wealth": 80,
+      "territory": 75,
+      "culture": 90,
+      "politics": 80,
+      "population": 85
+    }
+  },
+  {
+    "name": "Rashtrakuta Dynasty",
+    "hint": "A Deccan imperial dynasty that contested Kannauj and built the Kailasa temple at Ellora.",
+    "region": "Deccan; present-day Karnataka and Maharashtra, with reach into north and south India",
+    "area": null,
+    "ruler": "Dantidurga; Krishna I; Amoghavarsha I; Krishna III",
+    "modern_city": "Manyakheta (Malkhed), Karnataka; Ellora, Maharashtra",
+    "criteria": {
+      "army": 90,
+      "wealth": 85,
+      "territory": 90,
+      "culture": 90,
+      "politics": 80,
+      "population": 85
+    }
+  },
+  {
+    "name": "Paramara Dynasty of Malwa",
+    "hint": "A Malwa dynasty best known for the scholar-king Bhoja, patron of learning and builder of Dhar and Bhojpur.",
+    "region": "Malwa; present-day western Madhya Pradesh and nearby areas",
+    "area": null,
+    "ruler": "Siyaka; Munja; Bhoja",
+    "modern_city": "Dhar and Ujjain, Madhya Pradesh",
+    "criteria": {
+      "army": 70,
+      "wealth": 70,
+      "territory": 65,
+      "culture": 90,
+      "politics": 60,
+      "population": 65
+    }
+  },
+  {
+    "name": "Hindu Shahi Dynasty",
+    "hint": "A dynasty of the Kabul valley and Punjab that resisted the Ghaznavids under Jayapala and Anandapala.",
+    "region": "Eastern Afghanistan, northwestern Punjab and the Indus region",
+    "area": null,
+    "ruler": "Lalliya; Jayapala; Anandapala; Trilochanapala",
+    "modern_city": "Udabhandapura (Hund) on the Indus, Pakistan",
+    "criteria": {
+      "army": 70,
+      "wealth": 65,
+      "territory": 55,
+      "culture": 60,
+      "politics": 55,
+      "population": 60
+    }
+  },
+  {
+    "name": "Chandela Dynasty",
+    "hint": "A Bundelkhand dynasty remembered for the Khajuraho temples and the forts of Kalinjar and Mahoba.",
+    "region": "Bundelkhand; present-day Madhya Pradesh and Uttar Pradesh",
+    "area": null,
+    "ruler": "Dhanga; Vidyadhara; Paramardi",
+    "modern_city": "Khajuraho, Kalinjar and Mahoba",
+    "criteria": {
+      "army": 65,
+      "wealth": 65,
+      "territory": 55,
+      "culture": 95,
+      "politics": 60,
+      "population": 60
+    }
+  },
+  {
+    "name": "Chaulukya (Solanki) Dynasty of Gujarat",
+    "hint": "A wealthy Gujarat dynasty linked with the Modhera Sun Temple, Rani ki Vav and Jain patronage under Kumarapala.",
+    "region": "Gujarat and parts of Rajasthan and Malwa",
+    "area": null,
+    "ruler": "Mularaja; Bhima I; Jayasimha Siddharaja; Kumarapala",
+    "modern_city": "Anahilavada (Patan), Gujarat",
+    "criteria": {
+      "army": 75,
+      "wealth": 85,
+      "territory": 65,
+      "culture": 90,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Western Chalukya Dynasty (Kalyani)",
+    "hint": "A Deccan dynasty that rivalled the Cholas and patronised Kannada and Sanskrit scholarship under Vikramaditya VI.",
+    "region": "Deccan; present-day Karnataka and Maharashtra",
+    "area": null,
+    "ruler": "Tailapa II; Someshvara I; Vikramaditya VI",
+    "modern_city": "Kalyani (Basavakalyan), Karnataka; Lakkundi and Gadag",
+    "criteria": {
+      "army": 85,
+      "wealth": 80,
+      "territory": 75,
+      "culture": 90,
+      "politics": 75,
+      "population": 80
+    }
+  },
+  {
+    "name": "Chahamana (Chauhan) Dynasty of Shakambhari",
+    "hint": "A Rajput dynasty of Ajmer and Delhi, associated with Prithviraj III and the Battles of Tarain.",
+    "region": "Eastern Rajasthan and the Delhi region",
+    "area": null,
+    "ruler": "Vigraharaja IV; Prithviraj III",
+    "modern_city": "Ajmer, Rajasthan; Delhi",
+    "criteria": {
+      "army": 75,
+      "wealth": 65,
+      "territory": 65,
+      "culture": 70,
+      "politics": 65,
+      "population": 65
+    }
+  },
+  {
+    "name": "Sena Dynasty of Bengal",
+    "hint": "A Bengal dynasty of the 11th–12th centuries, linked with Lakshmanasena and the poet Jayadeva.",
+    "region": "Bengal; present-day West Bengal and Bangladesh",
+    "area": null,
+    "ruler": "Vijayasena; Ballala Sena; Lakshmanasena",
+    "modern_city": "Gauda, Nabadwip and Vikrampur",
+    "criteria": {
+      "army": 65,
+      "wealth": 65,
+      "territory": 55,
+      "culture": 75,
+      "politics": 60,
+      "population": 70
+    }
+  },
+  {
+    "name": "Yadava (Seuna) Dynasty of Devagiri",
+    "hint": "The historically documented Yadava kingdom of the western Deccan, famous for Devagiri fort and its wealth.",
+    "region": "Western Deccan; present-day Maharashtra",
+    "area": null,
+    "ruler": "Bhillama V; Singhana II; Ramachandra",
+    "modern_city": "Devagiri (Daulatabad), Maharashtra",
+    "criteria": {
+      "army": 75,
+      "wealth": 80,
+      "territory": 70,
+      "culture": 80,
+      "politics": 65,
+      "population": 70
+    }
+  },
+  {
+    "name": "Delhi Sultanate",
+    "hint": "The north Indian sultanate ruled by five successive dynasties, from the Mamluks to the Lodis.",
+    "region": "Northern India, at times reaching the Deccan and the south",
+    "area": 3000000,
+    "ruler": "Iltutmish; Alauddin Khalji; Muhammad bin Tughluq; Ibrahim Lodi",
+    "modern_city": "Delhi",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 90,
+      "culture": 80,
+      "politics": 70,
+      "population": 90
+    }
+  },
+  {
+    "name": "Kingdom of Calicut (Zamorin Dynasty)",
+    "hint": "A Malabar coast kingdom whose port of Calicut was a hub of the spice trade and where Vasco da Gama landed in 1498.",
+    "region": "Northern Kerala (Malabar)",
+    "area": null,
+    "ruler": "Zamorin (Samoothiri) rulers; naval commanders such as the Kunjali Marakkars",
+    "modern_city": "Kozhikode (Calicut), Kerala",
+    "criteria": {
+      "army": 65,
+      "wealth": 85,
+      "territory": 40,
+      "culture": 80,
+      "politics": 80,
+      "population": 60
+    }
+  },
+  {
+    "name": "Bahmani Sultanate",
+    "hint": "The first independent Muslim kingdom of the Deccan, whose breakup produced the five Deccan sultanates.",
+    "region": "Deccan; present-day Karnataka, Maharashtra and Telangana",
+    "area": null,
+    "ruler": "Alauddin Bahman Shah; Muhammad Shah I; minister Mahmud Gawan",
+    "modern_city": "Gulbarga and Bidar, Karnataka",
+    "criteria": {
+      "army": 80,
+      "wealth": 75,
+      "territory": 75,
+      "culture": 80,
+      "politics": 65,
+      "population": 80
+    }
+  },
+  {
+    "name": "Bengal Sultanate",
+    "hint": "A wealthy independent sultanate of Bengal known for its trade, mosque architecture and diplomatic ties with Ming China.",
+    "region": "Bengal; present-day West Bengal and Bangladesh",
+    "area": null,
+    "ruler": "Shamsuddin Ilyas Shah; Ghiyasuddin Azam Shah; Alauddin Hussain Shah",
+    "modern_city": "Pandua and Gaur, West Bengal",
+    "criteria": {
+      "army": 70,
+      "wealth": 85,
+      "territory": 60,
+      "culture": 80,
+      "politics": 70,
+      "population": 80
+    }
+  },
+  {
+    "name": "Manikya Dynasty of Tripura",
+    "hint": "A northeastern dynasty documented in the Rajmala chronicle, ruling Tripura into the 20th century.",
+    "region": "Northeastern India; present-day Tripura and parts of Bangladesh",
+    "area": null,
+    "ruler": "Dhanya Manikya; Govinda Manikya; Birchandra Manikya",
+    "modern_city": "Udaipur (Tripura) and Agartala",
+    "criteria": {
+      "army": 60,
+      "wealth": 55,
+      "territory": 50,
+      "culture": 75,
+      "politics": 70,
+      "population": 55
+    }
+  },
+  {
+    "name": "Adil Shahi Sultanate of Bijapur",
+    "hint": "A Deccan sultanate famous for the Gol Gumbaz and a refined Deccani court culture.",
+    "region": "Western Deccan; present-day Karnataka and Maharashtra",
+    "area": null,
+    "ruler": "Yusuf Adil Shah; Ibrahim Adil Shah II; Muhammad Adil Shah",
+    "modern_city": "Bijapur, Karnataka",
+    "criteria": {
+      "army": 80,
+      "wealth": 80,
+      "territory": 70,
+      "culture": 90,
+      "politics": 70,
+      "population": 75
+    }
+  },
+  {
+    "name": "Qutb Shahi Dynasty of Golconda",
+    "hint": "The Telugu-Deccan sultanate that founded Hyderabad and controlled the famed Golconda diamond trade.",
+    "region": "Eastern Deccan; present-day Telangana and coastal Andhra Pradesh",
+    "area": null,
+    "ruler": "Quli Qutb Mulk; Muhammad Quli Qutb Shah; Abul Hasan Tana Shah",
+    "modern_city": "Golconda and Hyderabad, Telangana",
+    "criteria": {
+      "army": 70,
+      "wealth": 90,
+      "territory": 65,
+      "culture": 85,
+      "politics": 70,
+      "population": 75
+    }
+  },
+  {
+    "name": "Mughal Empire",
+    "hint": "The great Indo-Islamic empire of Babur, Akbar, Shah Jahan and Aurangzeb, one of the richest states of its age.",
+    "region": "Most of the Indian subcontinent at its height",
+    "area": 4000000,
+    "ruler": "Babur; Akbar; Shah Jahan; Aurangzeb",
+    "modern_city": "Agra, Fatehpur Sikri and Delhi",
+    "criteria": {
+      "army": 95,
+      "wealth": 100,
+      "territory": 95,
+      "culture": 95,
+      "politics": 90,
+      "population": 100
+    }
+  },
+  {
+    "name": "Sur Empire",
+    "hint": "A short-lived Afghan-origin empire of Sher Shah Suri, remembered for the Grand Trunk Road and administrative reform.",
+    "region": "Northern India",
+    "area": null,
+    "ruler": "Sher Shah Suri; Islam Shah",
+    "modern_city": "Sasaram, Bihar; Delhi",
+    "criteria": {
+      "army": 85,
+      "wealth": 75,
+      "territory": 80,
+      "culture": 70,
+      "politics": 85,
+      "population": 80
+    }
+  },
+  {
+    "name": "Hyderabad State (Asaf Jahi Nizams)",
+    "hint": "The largest and among the wealthiest princely states of British India, ruled by the Nizams.",
+    "region": "Deccan; Telangana and parts of Karnataka and Maharashtra",
+    "area": 210000,
+    "ruler": "Asaf Jah I (Nizam-ul-Mulk); Mir Osman Ali Khan",
+    "modern_city": "Hyderabad, Telangana",
+    "criteria": {
+      "army": 65,
+      "wealth": 90,
+      "territory": 70,
+      "culture": 80,
+      "politics": 65,
+      "population": 80
+    }
+  },
+  {
+    "name": "Sikh Empire",
+    "hint": "A Punjab-based empire under Maharaja Ranjit Singh with a modernised Khalsa army, annexed by the British in 1849.",
+    "region": "Punjab, Kashmir and the northwestern frontier",
+    "area": null,
+    "ruler": "Ranjit Singh; Hari Singh Nalwa",
+    "modern_city": "Lahore, Pakistan; Amritsar, Punjab",
+    "criteria": {
+      "army": 90,
+      "wealth": 75,
+      "territory": 70,
+      "culture": 75,
+      "politics": 75,
+      "population": 75
+    }
+  },
+  {
+    "name": "Indo-Greek Kingdom",
+    "hint": "A Hellenistic kingdom in northwestern South Asia known for Greek-Indian cultural exchange and coinage.",
+    "region": "Parts of present-day Afghanistan and Pakistan, with varying reach into northwestern India",
+    "area": null,
+    "ruler": "Menander I (Milinda) is among its best-known rulers",
+    "modern_city": "Sagala (often identified with Sialkot) and other centres; identifications vary",
+    "criteria": {
+      "army": 65,
+      "wealth": 65,
+      "territory": 55,
+      "culture": 80,
+      "politics": 55,
+      "population": 55
+    }
+  },
+  {
+    "name": "Kingdom of Macedon",
+    "hint": "The Greek kingdom that Alexander the Great ruled before and during his conquests.",
+    "region": "Northern Greece and surrounding Balkan regions",
+    "area": null,
+    "ruler": "Philip II; Alexander the Great",
+    "modern_city": "Pella, in present-day northern Greece",
+    "criteria": {
+      "army": 90,
+      "wealth": 80,
+      "territory": 75,
+      "culture": 90,
+      "politics": 85,
+      "population": 75
+    }
+  },
+  {
+    "name": "Ptolemaic Kingdom of Egypt",
+    "hint": "A Hellenistic Egyptian kingdom founded by Ptolemy I and ended after Cleopatra VII's reign.",
+    "region": "Egypt, with control of different eastern Mediterranean territories at various times",
+    "area": null,
+    "ruler": "Ptolemy I Soter; Cleopatra VII",
+    "modern_city": "Alexandria, Egypt",
+    "criteria": {
+      "army": 80,
+      "wealth": 95,
+      "territory": 65,
+      "culture": 95,
+      "politics": 80,
+      "population": 75
+    }
+  },
+  {
+    "name": "Seleucid State / Seleucid Empire",
+    "hint": "A successor state to Alexander's empire that controlled extensive lands across western and central Asia.",
+    "region": "At different times, Syria, Mesopotamia, Iran, and parts of Anatolia and Central Asia",
+    "area": null,
+    "ruler": "Seleucus I Nicator; Antiochus III",
+    "modern_city": "Antioch and Seleucia on the Tigris were major capitals",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 95,
+      "culture": 90,
+      "politics": 75,
+      "population": 90
+    }
+  },
+  {
+    "name": "Nabataean Kingdom",
+    "hint": "A desert trading kingdom known for Petra, rock-cut architecture, and control of caravan routes.",
+    "region": "Modern Jordan and adjacent parts of the Arabian Peninsula and Levant",
+    "area": null,
+    "ruler": "Aretas IV is a well-known ruler",
+    "modern_city": "Petra, in present-day Jordan",
+    "criteria": {
+      "army": 65,
+      "wealth": 90,
+      "territory": 50,
+      "culture": 90,
+      "politics": 70,
+      "population": 45
+    }
+  },
+  {
+    "name": "Kingdom of Pergamon",
+    "hint": "A Hellenistic kingdom known for its royal library, sculpture, and the Attalid dynasty.",
+    "region": "Western Anatolia, in present-day Turkey",
+    "area": null,
+    "ruler": "Attalus I; Eumenes II",
+    "modern_city": "Pergamon, near modern Bergama, Turkey",
+    "criteria": {
+      "army": 65,
+      "wealth": 80,
+      "territory": 45,
+      "culture": 95,
+      "politics": 75,
+      "population": 50
+    }
+  },
+  {
+    "name": "Kingdom of Epirus",
+    "hint": "A northwestern Greek kingdom associated with King Pyrrhus and his campaigns against Rome.",
+    "region": "Epirus in present-day northwestern Greece and southern Albania",
+    "area": null,
+    "ruler": "Pyrrhus of Epirus",
+    "modern_city": "Dodona and Ambracia were important centres at different times",
+    "criteria": {
+      "army": 75,
+      "wealth": 50,
+      "territory": 45,
+      "culture": 75,
+      "politics": 65,
+      "population": 40
+    }
+  },
+  {
+    "name": "Kingdom of Armenia",
+    "hint": "A kingdom positioned between Roman and Parthian powers, reaching a high point under Tigranes II.",
+    "region": "Armenian Highlands; modern Armenia and surrounding regions at different times",
+    "area": null,
+    "ruler": "Artaxias I; Tigranes II the Great",
+    "modern_city": "Artaxata and Tigranocerta were important capitals",
+    "criteria": {
+      "army": 80,
+      "wealth": 65,
+      "territory": 75,
+      "culture": 85,
+      "politics": 70,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kingdom of Pontus",
+    "hint": "A Black Sea kingdom known for Mithridates VI and its long wars against Rome.",
+    "region": "Northern Anatolia along the Black Sea, in present-day Turkey",
+    "area": null,
+    "ruler": "Mithridates VI Eupator",
+    "modern_city": "Amaseia and Sinope were important centres",
+    "criteria": {
+      "army": 80,
+      "wealth": 70,
+      "territory": 60,
+      "culture": 75,
+      "politics": 70,
+      "population": 55
+    }
+  },
+  {
+    "name": "Ryukyu Kingdom",
+    "hint": "An island kingdom known for maritime trade and diplomatic links with China, Japan, and Southeast Asia.",
+    "region": "Ryukyu Islands, centred on Okinawa",
+    "area": null,
+    "ruler": "Shō dynasty; Shō Shin and Shō Tai are notable rulers",
+    "modern_city": "Shuri, Okinawa, Japan",
+    "criteria": {
+      "army": 40,
+      "wealth": 75,
+      "territory": 25,
+      "culture": 90,
+      "politics": 80,
+      "population": 35
+    }
+  },
+  {
+    "name": "Kingdom of England",
+    "hint": "A European kingdom associated with medieval monarchs, the Tudor period, and the development of parliamentary government.",
+    "region": "England and, at different times, territories under English crown control",
+    "area": null,
+    "ruler": "Athelstan; Henry VIII; Elizabeth I",
+    "modern_city": "London became the principal royal and political centre",
+    "criteria": {
+      "army": 85,
+      "wealth": 90,
+      "territory": 65,
+      "culture": 95,
+      "politics": 90,
+      "population": 75
+    }
+  },
+  {
+    "name": "Kingdom of Scotland",
+    "hint": "A northern British kingdom associated with the Wars of Scottish Independence and Robert the Bruce.",
+    "region": "Scotland, in the northern part of Great Britain",
+    "area": null,
+    "ruler": "Kenneth MacAlpin (traditional early association); Robert the Bruce; Mary, Queen of Scots",
+    "modern_city": "Scone and Edinburgh were important royal centres",
+    "criteria": {
+      "army": 75,
+      "wealth": 70,
+      "territory": 50,
+      "culture": 90,
+      "politics": 80,
+      "population": 55
+    }
+  },
+  {
+    "name": "Kingdom of Wessex",
+    "hint": "An Anglo-Saxon kingdom associated with Alfred the Great and the resistance to Viking incursions.",
+    "region": "Southern England",
+    "area": null,
+    "ruler": "Egbert; Alfred the Great; Edward the Elder",
+    "modern_city": "Winchester and other royal centres in southern England",
+    "criteria": {
+      "army": 75,
+      "wealth": 55,
+      "territory": 45,
+      "culture": 80,
+      "politics": 75,
+      "population": 50
+    }
+  },
+  {
+    "name": "Tikal Maya Kingdom / City-State",
+    "hint": "A major Maya city-state known for monumental temples, inscriptions, and rulers such as Jasaw Chan K'awiil I.",
+    "region": "Petén region of present-day Guatemala",
+    "area": null,
+    "ruler": "Jasaw Chan K'awiil I; numerous other rulers known from inscriptions",
+    "modern_city": "Tikal, Guatemala",
+    "criteria": {
+      "army": 65,
+      "wealth": 65,
+      "territory": 30,
+      "culture": 95,
+      "politics": 65,
+      "population": 45
+    }
+  },
+  {
+    "name": "Cusco Polity / Early Inca State",
+    "hint": "The early Cusco polity developed into the Inca Empire, which built a vast Andean road and administrative network.",
+    "region": "Andes of present-day Peru, later extending across parts of western South America",
+    "area": null,
+    "ruler": "Manco Cápac is traditional; Pachacuti is central to imperial expansion",
+    "modern_city": "Cusco, Peru",
+    "criteria": {
+      "army": 90,
+      "wealth": 80,
+      "territory": 95,
+      "culture": 95,
+      "politics": 90,
+      "population": 90
+    }
+  },
+  {
+    "name": "Kingdom of Babylon (Old and Neo-Babylonian)",
+    "hint": "A Mesopotamian kingdom associated with Hammurabi's law code and Nebuchadnezzar II's rebuilding of Babylon.",
+    "region": "Mesopotamia; present-day Iraq",
+    "area": null,
+    "ruler": "Hammurabi; Nebuchadnezzar II",
+    "modern_city": "Babylon, near Hillah, Iraq",
+    "criteria": {
+      "army": 80,
+      "wealth": 85,
+      "territory": 70,
+      "culture": 90,
+      "politics": 80,
+      "population": 70
+    }
+  },
+  {
+    "name": "New Kingdom of Egypt",
+    "hint": "Egypt's imperial age, from Ahmose I to Ramesses II, marked by conquests and monuments at Thebes.",
+    "region": "Egypt, with control reaching Nubia and the Levant",
+    "area": null,
+    "ruler": "Ahmose I; Hatshepsut; Thutmose III; Ramesses II",
+    "modern_city": "Thebes (Karnak, Luxor), Egypt",
+    "criteria": {
+      "army": 90,
+      "wealth": 95,
+      "territory": 80,
+      "culture": 95,
+      "politics": 85,
+      "population": 70
+    }
+  },
+  {
+    "name": "Kingdom of Kush (Napata and Meroë)",
+    "hint": "A Nubian kingdom that ruled Egypt as the 25th Dynasty and later flourished at Meroë as an iron-working centre.",
+    "region": "Nile valley south of Egypt; present-day Sudan",
+    "area": null,
+    "ruler": "Piye; Taharqa; Amanirenas",
+    "modern_city": "Napata and Meroë, Sudan",
+    "criteria": {
+      "army": 75,
+      "wealth": 75,
+      "territory": 60,
+      "culture": 80,
+      "politics": 65,
+      "population": 55
+    }
+  },
+  {
+    "name": "Achaemenid Empire",
+    "hint": "The first Persian world empire, built by Cyrus the Great and organised under Darius I through satrapies and the Royal Road.",
+    "region": "Iran, Mesopotamia, Anatolia, Egypt and Central Asia",
+    "area": 5500000,
+    "ruler": "Cyrus II; Darius I; Xerxes I",
+    "modern_city": "Pasargadae, Persepolis and Susa, Iran",
+    "criteria": {
+      "army": 95,
+      "wealth": 95,
+      "territory": 95,
+      "culture": 90,
+      "politics": 95,
+      "population": 95
+    }
+  },
+  {
+    "name": "Han Dynasty",
+    "hint": "A foundational Chinese dynasty that expanded the empire, opened the Silk Road and shaped Confucian state ideology.",
+    "region": "China, with reach into Central Asia and Korea",
+    "area": 6000000,
+    "ruler": "Gaozu; Emperor Wu; Guangwu",
+    "modern_city": "Chang'an and Luoyang, China",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 90,
+      "culture": 95,
+      "politics": 90,
+      "population": 95
+    }
+  },
+  {
+    "name": "Roman Empire (Principate and Western Empire)",
+    "hint": "The Mediterranean empire of Augustus and Trajan, famed for its legions, law and engineering.",
+    "region": "Mediterranean basin, Western Europe and the Near East",
+    "area": 5000000,
+    "ruler": "Augustus; Trajan; Constantine I",
+    "modern_city": "Rome, Italy",
+    "criteria": {
+      "army": 95,
+      "wealth": 90,
+      "territory": 95,
+      "culture": 95,
+      "politics": 95,
+      "population": 90
+    }
+  },
+  {
+    "name": "Kingdom of Aksum",
+    "hint": "An East African trading kingdom that adopted Christianity under Ezana and minted its own coinage.",
+    "region": "Northern Ethiopia and Eritrea, with Red Sea influence",
+    "area": null,
+    "ruler": "Ezana; Kaleb",
+    "modern_city": "Aksum, Ethiopia",
+    "criteria": {
+      "army": 70,
+      "wealth": 80,
+      "territory": 65,
+      "culture": 85,
+      "politics": 70,
+      "population": 55
+    }
+  },
+  {
+    "name": "Sasanian Empire",
+    "hint": "The last pre-Islamic Persian empire, a rival of Rome and Byzantium under Shapur I and Khosrow I.",
+    "region": "Iran, Mesopotamia and the Caucasus, with Central Asian reach",
+    "area": 3500000,
+    "ruler": "Ardashir I; Shapur I; Khosrow I",
+    "modern_city": "Ctesiphon, Iraq",
+    "criteria": {
+      "army": 90,
+      "wealth": 85,
+      "territory": 85,
+      "culture": 85,
+      "politics": 80,
+      "population": 80
+    }
+  },
+  {
+    "name": "Byzantine Empire (Eastern Roman Empire)",
+    "hint": "The long-lived eastern continuation of Rome, centred on Constantinople and known for Justinian and the Hagia Sophia.",
+    "region": "Eastern Mediterranean, Anatolia and the Balkans",
+    "area": 2600000,
+    "ruler": "Justinian I; Heraclius; Basil II",
+    "modern_city": "Constantinople (Istanbul), Turkey",
+    "criteria": {
+      "army": 85,
+      "wealth": 90,
+      "territory": 75,
+      "culture": 95,
+      "politics": 85,
+      "population": 80
+    }
+  },
+  {
+    "name": "Frankish Kingdom and Carolingian Empire",
+    "hint": "The Merovingian and Carolingian realm of Clovis and Charlemagne that shaped early medieval western Europe.",
+    "region": "Present-day France, Germany, Belgium and northern Italy",
+    "area": null,
+    "ruler": "Clovis I; Charles Martel; Charlemagne",
+    "modern_city": "Aachen, Germany; Paris region",
+    "criteria": {
+      "army": 85,
+      "wealth": 65,
+      "territory": 80,
+      "culture": 80,
+      "politics": 80,
+      "population": 70
+    }
+  },
+  {
+    "name": "Tang Dynasty",
+    "hint": "A golden age of Chinese poetry, trade and cosmopolitan culture centred on the capital Chang'an.",
+    "region": "China, with influence across Central and East Asia",
+    "area": 5400000,
+    "ruler": "Taizong; Wu Zetian; Xuanzong",
+    "modern_city": "Chang'an (Xi'an), China",
+    "criteria": {
+      "army": 90,
+      "wealth": 95,
+      "territory": 90,
+      "culture": 95,
+      "politics": 90,
+      "population": 95
+    }
+  },
+  {
+    "name": "Abbasid Caliphate",
+    "hint": "The Baghdad-based caliphate of Harun al-Rashid and al-Ma'mun, a centre of science and translation.",
+    "region": "Middle East, North Africa and Central Asia at its height",
+    "area": null,
+    "ruler": "Al-Mansur; Harun al-Rashid; Al-Ma'mun",
+    "modern_city": "Baghdad, Iraq",
+    "criteria": {
+      "army": 85,
+      "wealth": 95,
+      "territory": 95,
+      "culture": 95,
+      "politics": 75,
+      "population": 90
+    }
+  },
+  {
+    "name": "Khmer Empire",
+    "hint": "The Southeast Asian empire of Angkor, builder of Angkor Wat and the Bayon.",
+    "region": "Cambodia, with reach into Thailand, Laos and southern Vietnam",
+    "area": null,
+    "ruler": "Jayavarman II; Suryavarman II; Jayavarman VII",
+    "modern_city": "Angkor, Cambodia",
+    "criteria": {
+      "army": 80,
+      "wealth": 85,
+      "territory": 80,
+      "culture": 95,
+      "politics": 80,
+      "population": 70
+    }
+  },
+  {
+    "name": "Kingdom of France (Capetian to Bourbon)",
+    "hint": "A major European monarchy from Hugh Capet to Louis XIV, marked by centralised royal power and court culture.",
+    "region": "Present-day France and overseas holdings",
+    "area": null,
+    "ruler": "Philip II Augustus; Louis IX; Louis XIV",
+    "modern_city": "Paris and Versailles, France",
+    "criteria": {
+      "army": 90,
+      "wealth": 90,
+      "territory": 75,
+      "culture": 95,
+      "politics": 90,
+      "population": 85
+    }
+  },
+  {
+    "name": "Mongol Empire",
+    "hint": "The largest contiguous land empire in history, founded by Genghis Khan with mobile cavalry armies.",
+    "region": "Eurasia from China to Eastern Europe",
+    "area": 24000000,
+    "ruler": "Genghis Khan; Ögedei; Möngke; Kublai Khan",
+    "modern_city": "Karakorum, Mongolia; later Khanbaliq (Beijing)",
+    "criteria": {
+      "army": 100,
+      "wealth": 85,
+      "territory": 100,
+      "culture": 70,
+      "politics": 85,
+      "population": 90
+    }
+  },
+  {
+    "name": "Mali Empire",
+    "hint": "A West African empire of gold and salt trade, famed for Mansa Musa and the scholarship of Timbuktu.",
+    "region": "West Africa; present-day Mali, Senegal, Guinea and neighbours",
+    "area": null,
+    "ruler": "Sundiata Keita; Mansa Musa",
+    "modern_city": "Niani and Timbuktu region, West Africa",
+    "criteria": {
+      "army": 80,
+      "wealth": 95,
+      "territory": 80,
+      "culture": 85,
+      "politics": 75,
+      "population": 70
+    }
+  },
+  {
+    "name": "Ottoman Empire",
+    "hint": "A multi-continental empire that took Constantinople in 1453 and peaked under Suleiman the Magnificent.",
+    "region": "Anatolia, the Balkans, the Middle East and North Africa",
+    "area": 5200000,
+    "ruler": "Osman I; Mehmed II; Suleiman I",
+    "modern_city": "Bursa, Edirne and Constantinople (Istanbul)",
+    "criteria": {
+      "army": 95,
+      "wealth": 90,
+      "territory": 95,
+      "culture": 90,
+      "politics": 90,
+      "population": 90
+    }
+  },
+  {
+    "name": "Ming Dynasty",
+    "hint": "The Chinese dynasty of the Yongle Emperor and Zheng He's voyages, which rebuilt the Great Wall and the Forbidden City.",
+    "region": "China",
+    "area": 6500000,
+    "ruler": "Hongwu; Yongle; Wanli",
+    "modern_city": "Nanjing and Beijing, China",
+    "criteria": {
+      "army": 90,
+      "wealth": 95,
+      "territory": 90,
+      "culture": 95,
+      "politics": 85,
+      "population": 100
+    }
+  },
+  {
+    "name": "Joseon Dynasty",
+    "hint": "A long-lived Korean dynasty known for Confucian governance, the Hangul script under Sejong and Admiral Yi Sun-sin.",
+    "region": "Korean Peninsula",
+    "area": null,
+    "ruler": "Taejo; Sejong the Great; Yi Sun-sin (admiral)",
+    "modern_city": "Hanyang (Seoul), South Korea",
+    "criteria": {
+      "army": 70,
+      "wealth": 70,
+      "territory": 50,
+      "culture": 90,
+      "politics": 85,
+      "population": 75
+    }
+  },
+  {
+    "name": "Aztec Empire (Triple Alliance)",
+    "hint": "The Mexica-led alliance of Tenochtitlan, Texcoco and Tlacopan that dominated central Mexico until 1521.",
+    "region": "Central Mexico",
+    "area": 220000,
+    "ruler": "Itzcoatl; Moctezuma I; Ahuitzotl; Moctezuma II",
+    "modern_city": "Tenochtitlan (Mexico City), Mexico",
+    "criteria": {
+      "army": 85,
+      "wealth": 80,
+      "territory": 60,
+      "culture": 90,
+      "politics": 75,
+      "population": 75
+    }
+  }
+]

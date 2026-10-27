@@ -1,0 +1,658 @@
+[
+  {
+    "name": "Magadha",
+    "hint": "Center of political expansion",
+    "region": "East",
+    "area": 70000,
+    "ruler": "Jarasandha (Mahabharata); Bimbisara; Ajatashatru; Ashoka",
+    "modern_city": "Patna",
+    "criteria": {
+      "army": 100,
+      "wealth": 95,
+      "territory": 100,
+      "culture": 85,
+      "politics": 100,
+      "population": 100
+    }
+  },
+  {
+    "name": "Kashi",
+    "hint": "Spiritual and riverine hub",
+    "region": "East",
+    "area": 15000,
+    "ruler": "Divodasa; Alarka (Mahabharata)",
+    "modern_city": "Varanasi",
+    "criteria": {
+      "army": 10,
+      "wealth": 40,
+      "territory": 10,
+      "culture": 100,
+      "politics": 20,
+      "population": 30
+    }
+  },
+  {
+    "name": "Kosala",
+    "hint": "Ruled by legendary monarchs",
+    "region": "East-Central",
+    "area": 40000,
+    "ruler": "Prasenajit; Dasharatha; Rama (Ramayana)",
+    "modern_city": "Ayodhya",
+    "criteria": {
+      "army": 80,
+      "wealth": 80,
+      "territory": 80,
+      "culture": 90,
+      "politics": 85,
+      "population": 80
+    }
+  },
+  {
+    "name": "Videha",
+    "hint": "Philosophical traditions flourished",
+    "region": "East",
+    "area": 20000,
+    "ruler": "Janaka (Ramayana)",
+    "modern_city": "Darbhanga",
+    "criteria": {
+      "army": 20,
+      "wealth": 30,
+      "territory": 50,
+      "culture": 70,
+      "politics": 20,
+      "population": 40
+    }
+  },
+  {
+    "name": "Vaishali",
+    "hint": "Early democratic governance",
+    "region": "East",
+    "area": 10000,
+    "ruler": "Lichchhavi Confederacy; Chief Chetaka",
+    "modern_city": "Hajipur",
+    "criteria": {
+      "army": 50,
+      "wealth": 40,
+      "territory": 20,
+      "culture": 90,
+      "politics": 85,
+      "population": 30
+    }
+  },
+  {
+    "name": "Anga",
+    "hint": "Trade-rich and fertile lands",
+    "region": "East",
+    "area": 30000,
+    "ruler": "Karna; Romapada (Mahabharata)",
+    "modern_city": "Munger",
+    "criteria": {
+      "army": 50,
+      "wealth": 90,
+      "territory": 30,
+      "culture": 20,
+      "politics": 10,
+      "population": 40
+    }
+  },
+  {
+    "name": "Vanga",
+    "hint": "Naval power and riverine access",
+    "region": "East",
+    "area": 35000,
+    "ruler": "Samudrasena; Bhagadatta (semi-legendary)",
+    "modern_city": "Kolkata",
+    "criteria": {
+      "army": 60,
+      "wealth": 70,
+      "territory": 35,
+      "culture": 30,
+      "politics": 40,
+      "population": 70
+    }
+  },
+  {
+    "name": "Pundra",
+    "hint": "Agricultural and craft-based economy",
+    "region": "East",
+    "area": 30000,
+    "ruler": "Paundraka Vasudeva (Mahabharata)",
+    "modern_city": "Dinajpur",
+    "criteria": {
+      "army": 20,
+      "wealth": 30,
+      "territory": 30,
+      "culture": 10,
+      "politics": 10,
+      "population": 50
+    }
+  },
+  {
+    "name": "Kalinga",
+    "hint": "Coastal and seafaring strength",
+    "region": "East-Central",
+    "area": 45000,
+    "ruler": "Kharavela (Hathigumpha inscription); Ghatotkacha (legendary)",
+    "modern_city": "Bhubaneswar",
+    "criteria": {
+      "army": 80,
+      "wealth": 80,
+      "territory": 85,
+      "culture": 80,
+      "politics": 75,
+      "population": 85
+    }
+  },
+  {
+    "name": "Utkala",
+    "hint": "Known for art and music",
+    "region": "East",
+    "area": 25000,
+    "ruler": "Subhakara Deva; Okkalapa (mythical)",
+    "modern_city": "Cuttack",
+    "criteria": {
+      "army": 40,
+      "wealth": 50,
+      "territory": 40,
+      "culture": 90,
+      "politics": 30,
+      "population": 50
+    }
+  },
+  {
+    "name": "Malla",
+    "hint": "Small but strategic kingdom",
+    "region": "East-Central",
+    "area": 18000,
+    "ruler": "Republican tribe; Malla Chiefs",
+    "modern_city": "Kushinagar",
+    "criteria": {
+      "army": 20,
+      "wealth": 20,
+      "territory": 15,
+      "culture": 50,
+      "politics": 40,
+      "population": 20
+    }
+  },
+  {
+    "name": "Panchala",
+    "hint": "Known for warriors and scholars",
+    "region": "North-Central",
+    "area": 30000,
+    "ruler": "Drupada; Drona (Mahabharata)",
+    "modern_city": "Ahichatra (Bareilly)",
+    "criteria": {
+      "army": 80,
+      "wealth": 50,
+      "territory": 60,
+      "culture": 70,
+      "politics": 80,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kuru",
+    "hint": "Powerful political center",
+    "region": "North",
+    "area": 40000,
+    "ruler": "Shantanu; Dhritarashtra; Yudhishthira (Mahabharata)",
+    "modern_city": "Kurukshetra",
+    "criteria": {
+      "army": 95,
+      "wealth": 80,
+      "territory": 80,
+      "culture": 70,
+      "politics": 90,
+      "population": 90
+    }
+  },
+  {
+    "name": "Matsya",
+    "hint": "Tribal monarchy in semi-arid zone",
+    "region": "North-West",
+    "area": 20000,
+    "ruler": "Virata (Mahabharata)",
+    "modern_city": "Bairat (Jaipur)",
+    "criteria": {
+      "army": 30,
+      "wealth": 30,
+      "territory": 50,
+      "culture": 30,
+      "politics": 20,
+      "population": 50
+    }
+  },
+  {
+    "name": "Surashtra",
+    "hint": "Major maritime trade center",
+    "region": "West",
+    "area": 30000,
+    "ruler": "Rudradaman I; Abhira rulers (Purana)",
+    "modern_city": "Surat",
+    "criteria": {
+      "army": 50,
+      "wealth": 80,
+      "territory": 60,
+      "culture": 70,
+      "politics": 50,
+      "population": 60
+    }
+  },
+  {
+    "name": "Avanti",
+    "hint": "Wealthy and culturally rich",
+    "region": "Central-West",
+    "area": 50000,
+    "ruler": "Pradyota; Chanda Pradyota Mahasena",
+    "modern_city": "Ujjain",
+    "criteria": {
+      "army": 85,
+      "wealth": 90,
+      "territory": 100,
+      "culture": 95,
+      "politics": 90,
+      "population": 85
+    }
+  },
+  {
+    "name": "Chedi",
+    "hint": "Fertile central plains",
+    "region": "Central",
+    "area": 20000,
+    "ruler": "Shishupala (Mahabharata)",
+    "modern_city": "Bundelkhand",
+    "criteria": {
+      "army": 50,
+      "wealth": 40,
+      "territory": 50,
+      "culture": 40,
+      "politics": 40,
+      "population": 40
+    }
+  },
+  {
+    "name": "Kamboja",
+    "hint": "Warrior tribes of frontier",
+    "region": "North-West",
+    "area": 25000,
+    "ruler": "Sudakshina (Mahabharata); Tribal Chiefs",
+    "modern_city": "Kashmir",
+    "criteria": {
+      "army": 80,
+      "wealth": 60,
+      "territory": 20,
+      "culture": 50,
+      "politics": 30,
+      "population": 20
+    }
+  },
+  {
+    "name": "Gandhara",
+    "hint": "Early Buddhist and artistic hub",
+    "region": "North-West",
+    "area": 30000,
+    "ruler": "Shakuni; Nagnajit (Buddhist era)",
+    "modern_city": "Peshawar (Pakistan)",
+    "criteria": {
+      "army": 80,
+      "wealth": 60,
+      "territory": 80,
+      "culture": 70,
+      "politics": 40,
+      "population": 50
+    }
+  },
+  {
+    "name": "Madra",
+    "hint": "Trade-focused border kingdom",
+    "region": "North-West",
+    "area": 20000,
+    "ruler": "Shalya (Mahabharata)",
+    "modern_city": "Sialkot (Pakistan)",
+    "criteria": {
+      "army": 60,
+      "wealth": 40,
+      "territory": 40,
+      "culture": 40,
+      "politics": 40,
+      "population": 40
+    }
+  },
+  {
+    "name": "Bahlikas",
+    "hint": "Frontier region with outside links",
+    "region": "North-West",
+    "area": 18000,
+    "ruler": "Bahlika (elder prince, Mahabharata)",
+    "modern_city": "Balkh (Afghanistan)",
+    "criteria": {
+      "army": 20,
+      "wealth": 20,
+      "territory": 15,
+      "culture": 30,
+      "politics": 20,
+      "population": 10
+    }
+  },
+  {
+    "name": "Surasena",
+    "hint": "Mathura-based kingdom",
+    "region": "Central-North",
+    "area": 20000,
+    "ruler": "Vasudeva; Ugrasena (Mahabharata)",
+    "modern_city": "Mathura",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 40,
+      "culture": 40,
+      "politics": 40,
+      "population": 50
+    }
+  },
+  {
+    "name": "Vatsa",
+    "hint": "Commercial and learning center",
+    "region": "Central",
+    "area": 22000,
+    "ruler": "Udayana (Buddhist and Jain traditions)",
+    "modern_city": "Kaushambi",
+    "criteria": {
+      "army": 85,
+      "wealth": 95,
+      "territory": 70,
+      "culture": 80,
+      "politics": 85,
+      "population": 90
+    }
+  },
+  {
+    "name": "Sibis",
+    "hint": "Known for generosity and virtue",
+    "region": "North-West",
+    "area": 14000,
+    "ruler": "Shibi (Jataka tales; Mahabharata)",
+    "modern_city": "Sibi (Pakistan)",
+    "criteria": {
+      "army": 20,
+      "wealth": 10,
+      "territory": 15,
+      "culture": 10,
+      "politics": 10,
+      "population": 10
+    }
+  },
+  {
+    "name": "Kekaya",
+    "hint": "Warrior clan on western border",
+    "region": "North-West",
+    "area": 18000,
+    "ruler": "Ashvapati (Vedic; father of Savitri)",
+    "modern_city": "Jhelum (Pakistan)",
+    "criteria": {
+      "army": 50,
+      "wealth": 40,
+      "territory": 50,
+      "culture": 20,
+      "politics": 30,
+      "population": 40
+    }
+  },
+  {
+    "name": "Sindhu",
+    "hint": "Strategic and river-rich zone",
+    "region": "Far West",
+    "area": 27000,
+    "ruler": "Jayadratha (Mahabharata)",
+    "modern_city": "Sindh (Pakistan)",
+    "criteria": {
+      "army": 60,
+      "wealth": 70,
+      "territory": 80,
+      "culture": 20,
+      "politics": 30,
+      "population": 80
+    }
+  },
+  {
+    "name": "Sauvira",
+    "hint": "Commercially active kingdom",
+    "region": "Far West",
+    "area": 20000,
+    "ruler": "Jayadratha (Mahabharata)",
+    "modern_city": "Sindh (Pakistan)",
+    "criteria": {
+      "army": 50,
+      "wealth": 50,
+      "territory": 30,
+      "culture": 20,
+      "politics": 30,
+      "population": 40
+    }
+  },
+  {
+    "name": "Kikata",
+    "hint": "Early tribal territory",
+    "region": "Central-East",
+    "area": 16000,
+    "ruler": "Brahmadatta (Rigveda reference)",
+    "modern_city": "Gaya",
+    "criteria": {
+      "army": 10,
+      "wealth": 10,
+      "territory": 15,
+      "culture": 10,
+      "politics": 10,
+      "population": 10
+    }
+  },
+  {
+    "name": "Rathikas",
+    "hint": "Minor sea-linked state",
+    "region": "West Coast",
+    "area": 12000,
+    "ruler": "Rathika Chiefs (Western coastal tribes)",
+    "modern_city": "Rajasthan (Western Coast)",
+    "criteria": {
+      "army": 10,
+      "wealth": 20,
+      "territory": 10,
+      "culture": 10,
+      "politics": 10,
+      "population": 10
+    }
+  },
+  {
+    "name": "Prabhasa",
+    "hint": "Port town of spiritual value",
+    "region": "West Coast",
+    "area": 13000,
+    "ruler": "Local Maritime Chiefs; Somnath Region",
+    "modern_city": "Somnath (Prabhas Patan)",
+    "criteria": {
+      "army": 5,
+      "wealth": 30,
+      "territory": 10,
+      "culture": 50,
+      "politics": 10,
+      "population": 20
+    }
+  },
+  {
+    "name": "Ujjaini",
+    "hint": "Seat of astronomical knowledge",
+    "region": "Central",
+    "area": 22000,
+    "ruler": "Vikramaditya; Chandragupta II",
+    "modern_city": "Ujjain",
+    "criteria": {
+      "army": 10,
+      "wealth": 10,
+      "territory": 20,
+      "culture": 80,
+      "politics": 10,
+      "population": 30
+    }
+  },
+  {
+    "name": "Asmaka",
+    "hint": "Only southern Janapada",
+    "region": "Deccan/South",
+    "area": 30000,
+    "ruler": "Brahmadatta (Buddhist texts)",
+    "modern_city": "Bodhan (Telangana)",
+    "criteria": {
+      "army": 50,
+      "wealth": 40,
+      "territory": 60,
+      "culture": 20,
+      "politics": 30,
+      "population": 60
+    }
+  },
+  {
+    "name": "Kuntala",
+    "hint": "Known for horses and wealth",
+    "region": "South",
+    "area": 28000,
+    "ruler": "Satakarni rulers; Kadamba dynasty (later)",
+    "modern_city": "Belagavi (Karnataka)",
+    "criteria": {
+      "army": 40,
+      "wealth": 50,
+      "territory": 55,
+      "culture": 20,
+      "politics": 30,
+      "population": 50
+    }
+  },
+  {
+    "name": "Andhra",
+    "hint": "Early agrarian power",
+    "region": "South-East",
+    "area": 35000,
+    "ruler": "Satavahana Kings; Simuka Satavahana",
+    "modern_city": "Amaravati (Andhra Pradesh)",
+    "criteria": {
+      "army": 60,
+      "wealth": 60,
+      "territory": 70,
+      "culture": 50,
+      "politics": 40,
+      "population": 60
+    }
+  },
+  {
+    "name": "Vidarbha",
+    "hint": "Fertile plateau kingdom",
+    "region": "Central",
+    "area": 25000,
+    "ruler": "Bhishmaka; Rukmi (Mahabharata)",
+    "modern_city": "Nagpur",
+    "criteria": {
+      "army": 50,
+      "wealth": 50,
+      "territory": 50,
+      "culture": 30,
+      "politics": 30,
+      "population": 50
+    }
+  },
+  {
+    "name": "Dandaka",
+    "hint": "Dense forested region",
+    "region": "South",
+    "area": 20000,
+    "ruler": "King Danda (mythical forest ruler)",
+    "modern_city": "Bastar (Chhattisgarh)",
+    "criteria": {
+      "army": 5,
+      "wealth": 10,
+      "territory": 50,
+      "culture": 50,
+      "politics": 10,
+      "population": 20
+    }
+  },
+  {
+    "name": "Kishkindhya",
+    "hint": "Mythical vanara kingdom",
+    "region": "South",
+    "area": 15000,
+    "ruler": "Sugriva; Vali (Ramayana)",
+    "modern_city": "Hampi (Karnataka)",
+    "criteria": {
+      "army": 10,
+      "wealth": 5,
+      "territory": 15,
+      "culture": 80,
+      "politics": 0,
+      "population": 20
+    }
+  },
+  {
+    "name": "Mekala",
+    "hint": "Hill tribal kingdom",
+    "region": "Central",
+    "area": 18000,
+    "ruler": "Tribal Chiefs (Central India)",
+    "modern_city": "Bilaspur (Chhattisgarh)",
+    "criteria": {
+      "army": 10,
+      "wealth": 10,
+      "territory": 50,
+      "culture": 10,
+      "politics": 10,
+      "population": 20
+    }
+  },
+  {
+    "name": "Udayanagiri",
+    "hint": "Strategic hill outpost",
+    "region": "East-Central",
+    "area": 12000,
+    "ruler": "Udayana (linked to Avanti region)",
+    "modern_city": "Udayagiri (Odisha)",
+    "criteria": {
+      "army": 10,
+      "wealth": 5,
+      "territory": 20,
+      "culture": 10,
+      "politics": 10,
+      "population": 20
+    }
+  },
+  {
+    "name": "Mahendra",
+    "hint": "Mountainous and mythical zone",
+    "region": "South-East",
+    "area": 22000,
+    "ruler": "Mahendravarma (Purana); Mythical mountain king",
+    "modern_city": "Gajapati (Odisha)",
+    "criteria": {
+      "army": 10,
+      "wealth": 10,
+      "territory": 55,
+      "culture": 10,
+      "politics": 10,
+      "population": 20
+    }
+  },
+  {
+    "name": "Tamralipti",
+    "hint": "Ancient seaport of trade",
+    "region": "Coastal East",
+    "area": 20000,
+    "ruler": "Port Governors under Mauryan/Gupta rule",
+    "modern_city": "Tamluk (West Bengal)",
+    "criteria": {
+      "army": 20,
+      "wealth": 80,
+      "territory": 20,
+      "culture": 10,
+      "politics": 20,
+      "population": 50
+    }
+  }
+]

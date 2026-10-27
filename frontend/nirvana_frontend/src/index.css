@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2b1d0c;
+  color: #2b1d0c;
+}
+
+.font-marcellus {
+  font-family: 'Marcellus', serif;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+/* Custom scrollbars with royal gold feel */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fdf6e2;
+}
+::-webkit-scrollbar-thumb {
+  background: #c8963e;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9a6b1f;
+}
+
+/* Ornate parchment double border */
+.parchment-border {
+  border: 4px solid #b08968;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+.parchment-double-border {
+  border: 12px double #d4a373;
+}
